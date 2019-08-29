@@ -1,0 +1,36 @@
+body{
+  background-color: #fefcf3;
+}
+
+h1{
+  text-align: center;
+}
+ p{
+   text-align: center;
+ }
+
+
+
+a:link{
+  text-decoration: none;
+}
+
+nav{
+  float: right;
+  height: 20px;
+  width: auto;
+}
+.nav_div{
+  float: left;
+  margin-left: 350px;
+
+}
+h3{
+  text-align: center;
+}
+.copy_right{
+  text-align: center;
+}
+to_top{
+  text-align: center;
+}
